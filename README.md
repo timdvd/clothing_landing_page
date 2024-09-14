@@ -4,12 +4,12 @@ a range of products with a focus on user-friendly navigation and a modern design
 Built using HTML, CSS, and JavaScript, the site is optimized for both mobile and desktop experiences.
 
 Features:
+ - Promotional Banners: Highlight current sales, new arrivals, and exclusive offers.
+ - Responsive Design: Ensures a seamless shopping experience across all devices.
 
-Promotional Banners: Highlight current sales, new arrivals, and exclusive offers.
-Responsive Design: Ensures a seamless shopping experience across all devices.
 Technologies Used:
-
-HTML5
-CSS3
-JavaScript
+ - HTML5
+ - CSS3
+ - JavaScript
+ - 
 You may watch the preview by clicking the following link: https://timdvd.github.io/clothing_landing_page/
